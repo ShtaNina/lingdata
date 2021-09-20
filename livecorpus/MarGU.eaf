@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ANNOTATION_DOCUMENT AUTHOR="" DATE="2021-09-20T23:54:50+03:00"
+    FORMAT="3.0" VERSION="3.0"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://www.mpi.nl/tools/elan/EAFv3.0.xsd">
+    <HEADER MEDIA_FILE="" TIME_UNITS="milliseconds">
+        <MEDIA_DESCRIPTOR
+            MEDIA_URL="file:///Users/ninabonyushkina/Desktop/Рабочий стол/Материалы/lingdata/MarGU.mp4"
+            MIME_TYPE="video/mp4" RELATIVE_MEDIA_URL="./MarGU.mp4"/>
+        <PROPERTY NAME="URN">urn:nl-mpi-tools-elan-eaf:5efdb5c2-66f0-4147-8c0c-4c5c369d9703</PROPERTY>
+        <PROPERTY NAME="lastUsedAnnotationId">13</PROPERTY>
+    </HEADER>
+    <TIME_ORDER>
+        <TIME_SLOT TIME_SLOT_ID="ts1" TIME_VALUE="0"/>
+        <TIME_SLOT TIME_SLOT_ID="ts2" TIME_VALUE="1760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts3" TIME_VALUE="1760"/>
+        <TIME_SLOT TIME_SLOT_ID="ts4" TIME_VALUE="2500"/>
+        <TIME_SLOT TIME_SLOT_ID="ts5" TIME_VALUE="2520"/>
+        <TIME_SLOT TIME_SLOT_ID="ts6" TIME_VALUE="12898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts7" TIME_VALUE="12898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts8" TIME_VALUE="12898"/>
+        <TIME_SLOT TIME_SLOT_ID="ts9" TIME_VALUE="117717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts10" TIME_VALUE="117717"/>
+        <TIME_SLOT TIME_SLOT_ID="ts11" TIME_VALUE="117733"/>
+        <TIME_SLOT TIME_SLOT_ID="ts12" TIME_VALUE="125366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts13" TIME_VALUE="125366"/>
+        <TIME_SLOT TIME_SLOT_ID="ts14" TIME_VALUE="197100"/>
+    </TIME_ORDER>
+    <TIER LINGUISTIC_TYPE_REF="default-lt" TIER_ID="default"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="K-Spch"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="utterance" TIER_ID="W-Spch"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="W-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gestures" TIER_ID="K-RGU"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="words"
+        PARENT_REF="W-Spch" TIER_ID="W-Words"/>
+    <TIER DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="phonetic_transcription" PARENT_REF="W-Spch" TIER_ID="W-IPA"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="W-RGU" TIER_ID="W-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_phases"
+        PARENT_REF="K-RGU" TIER_ID="K-RGph"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="part of speech"
+        PARENT_REF="W-Words" TIER_ID="W-POS"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="W-RGph" TIER_ID="W-RGMe"/>
+    <TIER DEFAULT_LOCALE="en" LINGUISTIC_TYPE_REF="gesture_meaning"
+        PARENT_REF="K-RGph" TIER_ID="K-RGMe"/>
+    <TIER ANNOTATOR="ShtaNina" LINGUISTIC_TYPE_REF="utterance"
+        PARTICIPANT="@mns1979m" TIER_ID="text@mns1979m">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a1"
+                TIME_SLOT_REF1="ts3" TIME_SLOT_REF2="ts5">
+                <ANNOTATION_VALUE>здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a2"
+                TIME_SLOT_REF1="ts7" TIME_SLOT_REF2="ts9">
+                <ANNOTATION_VALUE>ну, семь — это ключевых показателей эффективности, ааа, деятельности, ааа, работы вуза / и если по порядку их перечислить, то первое — это, ааа, образовательная, ам, качество образовательной деятельности / это средний балл ЕГЭ, у нас он традиционно самый высокий в республике / следующее — это наука, это количество, аа, привлеченных средств на научно-исследовательские контрукс...конструкторские работы / ааа, на сегодняшний день он рассчитывается, этот показатель: общая сумма делится на одного научно-педагогического работника / мыы… на сегодняшний день у нас там существенный рост, и где-то составляет более ста тысяч рублей на одного научно-педагогического работника // следующий показатель — это заработная плата преподавателей, это майские указы, и мы счастливы, что мы их выполняем / следующее — это иностранные студенты, это количество, ээ, студентов, аа, в общей доле, это порядка двенадцати процентов на сегодняшний день в общей доле студентов, мы его очень серьезно превышаем, этот показатель, выполняем его / ааа, дальше — это финансовая состоятельность вуза, это доходы из всех источников, то... так же на одного научно-педагогического работника, мы тоже да... с хорошим заделом его превышаем / эээ, да...данный показатель // ну, также есть показатель обязательный, это дополнительный показатель — это количество кандидатов и докторов наук, ааа, опять же, на количество студентов / и показатель именно содержательного качества, качества #нрзб# преподавательского состава Марийского государственного университета, также выполняется / ну, и самый важный, один из самых важных показателей также, они все важны, но для нас этот показатель чрезвычайно важен, потому что это объективная оценка, ааа, нашей работы, потому что когда выпускник трудоустраивается по... по своей специальности и получает нормальную зарабо...хорошую заработную плату или открывает свой собственный бизнес — / это и есть самое лучшее...так скажем, комплимент в наш адрес //  </ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a6"
+                TIME_SLOT_REF1="ts12" TIME_SLOT_REF2="ts14">
+                <ANNOTATION_VALUE>опорный университет — это серьезный статус, это... мы это делали в первую очередь для,ааа, жителей республики Марий-Эл, для наших студентов, поэтому это комплексная работа, ааа, она включает целый ряд проектов, это и повышение кадрового потенциала, это конкретные проекты по оборонно-промышленному комплексу, к… ааа… которые мы должны реализовать и сдать конкретные про… продукты, привести, ааа, конкретное количество финансовых средств в, ааа, республику Марий-Эл, что станет дополнительным притоком инвестиций /</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ShtaNina" DEFAULT_LOCALE="ru"
+        LINGUISTIC_TYPE_REF="utterance" PARTICIPANT="@mss1984f" TIER_ID="text@mss1984f">
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a3"
+                TIME_SLOT_REF1="ts1" TIME_SLOT_REF2="ts2">
+                <ANNOTATION_VALUE>Михаил Николаевич, здравствуйте //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a4"
+                TIME_SLOT_REF1="ts4" TIME_SLOT_REF2="ts6">
+                <ANNOTATION_VALUE>совсем недавно стали известны результаты мониторинга эффективности российских вузов, и МарГУможно поздравить, выполнены семь из семи показателей / какая работа для этого была проделана? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a5"
+                TIME_SLOT_REF1="ts8" TIME_SLOT_REF2="ts10">
+                <ANNOTATION_VALUE/>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <ALIGNABLE_ANNOTATION ANNOTATION_ID="a7"
+                TIME_SLOT_REF1="ts11" TIME_SLOT_REF2="ts13">
+                <ANNOTATION_VALUE>вуз, который четыре года назад был признан неэффективным, в этом году стал опорным / этот статус что дает Марийскому Госуниверситету? //</ANNOTATION_VALUE>
+            </ALIGNABLE_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ShtaNina" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@mns1979m"
+        PARTICIPANT="@mns1979m" TIER_ID="transl@mns1979m">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a8" ANNOTATION_REF="a1">
+                <ANNOTATION_VALUE>hello //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a9" ANNOTATION_REF="a2">
+                <ANNOTATION_VALUE>well, seven is a number of the main figures of the efficiency of the university’s performance / and if you name them by number, the first one is the quality of the educational activity / it is the medium number of points on the state exam, we traditionally have the highest in the republic / the next one is science, it is the quantity of the funds attracted to the scientific research projects / for today this figure is counted as: the general amount of money is divided into one scientific worker / we have a major increase there for today, it is approximately more than one hundred thousand rubles for one scientific worker // the next figure is the salary of the teachers, it is the May laws, and we are happy to fulfill them / the next one is the number of the foreign students, it is the number of the students out of the general quantity, it is about twelve percent for today out of the general quantity of the students, we seriously excel this figure, we fulfill it / the next one is financial soundness of the university, it is the income from all of the sources, for one scientific worker as well, we excel this one quite much, too // well, there is also a necessary figure, it is the additional figure, it is the number of the PhDs per students / and the indicator of the substantial quality, the quality of the academic staff of the Mari State University, is also fulfilled/ well, and the most important, one of the most important, they are all important, but this one is extremely important for us, because it is the objective evaluation of our work, because when the graduate is employed according to his specialty and gets a high salary or starts his own business — / it is exactly the best compliment to us //
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a12" ANNOTATION_REF="a6">
+                <ANNOTATION_VALUE>the main [university of the republic] is a serious status, we have been doing it, above all, for the residents of the Mari El Republic, for our students, this is why it is a complex work, it consists of a number of projects including the improvement of the human resources potential, the particular projects for the military-industrial complex that we must implement and render the specific products, attract the specific number of funds to the Mari El Republic which will become an additional source of the investment /</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <TIER ANNOTATOR="ShtaNina" DEFAULT_LOCALE="en"
+        LINGUISTIC_TYPE_REF="translation" PARENT_REF="text@mss1984f"
+        PARTICIPANT="@mss1984f" TIER_ID="transl@mss1984f">
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a10" ANNOTATION_REF="a3">
+                <ANNOTATION_VALUE>Mikhail Nicholaevich, hello //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a11" ANNOTATION_REF="a4">
+                <ANNOTATION_VALUE>the results of the evaluation of Russian universities’ efficiency have very recently become available, and the MarSU may be complimented, seven goals out of seven are completed / what kind of work did it take? // 
+</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+        <ANNOTATION>
+            <REF_ANNOTATION ANNOTATION_ID="a13" ANNOTATION_REF="a7">
+                <ANNOTATION_VALUE>the university that was recognised as ineffective four years ago this year has become the main [university of the republic] / what does this status give to the Mari State University? //</ANNOTATION_VALUE>
+            </REF_ANNOTATION>
+        </ANNOTATION>
+    </TIER>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="default-lt" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="utterance" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="gestures" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="words" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="phonetic_transcription" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Time_Subdivision"
+        CONTROLLED_VOCABULARY_REF="Gesture phases"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_phases" TIME_ALIGNABLE="true"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        CONTROLLED_VOCABULARY_REF="POS" GRAPHIC_REFERENCES="false"
+        LINGUISTIC_TYPE_ID="part of speech" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="gesture_meaning" TIME_ALIGNABLE="false"/>
+    <LINGUISTIC_TYPE CONSTRAINTS="Symbolic_Association"
+        GRAPHIC_REFERENCES="false" LINGUISTIC_TYPE_ID="translation" TIME_ALIGNABLE="false"/>
+    <LOCALE COUNTRY_CODE="US" LANGUAGE_CODE="en" VARIANT="ASCII"/>
+    <LOCALE COUNTRY_CODE="RU" LANGUAGE_CODE="ru"/>
+    <LANGUAGE LANG_DEF="http://cdb.iso.org/lg/CDB-00130975-001"
+        LANG_ID="und" LANG_LABEL="undetermined (und)"/>
+    <CONSTRAINT
+        DESCRIPTION="Time subdivision of parent annotation's time interval, no time gaps allowed within this interval" STEREOTYPE="Time_Subdivision"/>
+    <CONSTRAINT
+        DESCRIPTION="Symbolic subdivision of a parent annotation. Annotations refering to the same parent are ordered" STEREOTYPE="Symbolic_Subdivision"/>
+    <CONSTRAINT DESCRIPTION="1-1 association with a parent annotation" STEREOTYPE="Symbolic_Association"/>
+    <CONSTRAINT
+        DESCRIPTION="Time alignable annotations within the parent annotation's time interval, gaps are allowed" STEREOTYPE="Included_In"/>
+    <CONTROLLED_VOCABULARY CV_ID="POS">
+        <DESCRIPTION LANG_REF="und">Part of Speech</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_7217cce5-ebba-4179-bfdc-9a7405c34f79">
+            <CVE_VALUE DESCRIPTION="noun" LANG_REF="und">n</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_c64891fb-8a1a-4803-83df-058785fd6b97">
+            <CVE_VALUE DESCRIPTION="verb" LANG_REF="und">v</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_40faa65d-e509-4079-b655-72961add5cc1">
+            <CVE_VALUE DESCRIPTION="interjection" LANG_REF="und">int</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_cafa1763-d276-408e-839e-67353fa17555">
+            <CVE_VALUE DESCRIPTION="adjective" LANG_REF="und">adj</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_40deffdd-cc66-42fe-a554-cb3d65559cbe">
+            <CVE_VALUE DESCRIPTION="pronoun" LANG_REF="und">pro</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0f2e9f10-5daa-45c4-bf9b-5209dfdbcf9d">
+            <CVE_VALUE DESCRIPTION="determiner" LANG_REF="und">det</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_67526609-c742-4848-abdf-21f5cca600e9">
+            <CVE_VALUE DESCRIPTION="article" LANG_REF="und">art</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_e8c720b5-7c09-46f7-88a5-0212b666eba9">
+            <CVE_VALUE DESCRIPTION="preposition" LANG_REF="und">prep</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_60abacd1-dc74-42d5-bb67-8f0159319457">
+            <CVE_VALUE DESCRIPTION="adverb" LANG_REF="und">adv</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3c552e74-2414-43fb-8830-60d798f87b4b">
+            <CVE_VALUE DESCRIPTION="conj" LANG_REF="und">con</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_b1eb4ac8-d99d-4ba5-bca9-8024bcc91579">
+            <CVE_VALUE DESCRIPTION="demonstrative pronoun" LANG_REF="und">dem</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_0064305e-03ac-44da-8833-c5c9953c1ab4">
+            <CVE_VALUE DESCRIPTION="post" LANG_REF="und">post</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_8bd59663-44ba-4d43-9f30-857e11c48f1d">
+            <CVE_VALUE DESCRIPTION="particle" LANG_REF="und">part</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+    <CONTROLLED_VOCABULARY CV_ID="Gesture phases">
+        <DESCRIPTION LANG_REF="und">Gesture phases</DESCRIPTION>
+        <CV_ENTRY_ML CVE_ID="cveid_92c70e0a-2e6e-4f9d-90cd-da7ed2b6ec6c">
+            <CVE_VALUE DESCRIPTION="preparation" LANG_REF="und">preparation</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_3305883c-2cb1-4d38-8e30-6adb9aa70263">
+            <CVE_VALUE DESCRIPTION="stroke" LANG_REF="und">stroke</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_ac895aa4-2b33-448e-8e6c-601bccf5470a">
+            <CVE_VALUE DESCRIPTION="hold" LANG_REF="und">hold</CVE_VALUE>
+        </CV_ENTRY_ML>
+        <CV_ENTRY_ML CVE_ID="cveid_94b602aa-cced-4a6a-881b-9463d9584234">
+            <CVE_VALUE DESCRIPTION="partial retraction" LANG_REF="und">part.retraction</CVE_VALUE>
+        </CV_ENTRY_ML>
+    </CONTROLLED_VOCABULARY>
+</ANNOTATION_DOCUMENT>
